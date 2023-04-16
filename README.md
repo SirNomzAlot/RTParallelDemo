@@ -1,5 +1,5 @@
 # RTParallelDemo
-A Demo of a real time parallel projection.
+A Demo of a psuedo parallel projection.
 It's real jank but it works.
 
 Works by using a transformation matrix full of trig functions to manipulate
